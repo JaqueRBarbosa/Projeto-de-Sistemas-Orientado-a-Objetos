@@ -6,7 +6,7 @@
 
 ---
 
-| [Desafio](#desafio) | [Solução](#solucao) | [Backlog do Produto](#backlog) | [DoR](#dor) | [DoD](#dod) | [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Manual de Instalação](#manual) | [Equipe](#equipe) |
+| [Desafio](#desafio) | [Solução](#solucao) | [Backlog do Produto](#backlog) | [DoR](#dor) | [DoD](#dod) | [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Equipe](#equipe) |
 
 ---
 
@@ -87,4 +87,49 @@ O sistema realiza triagem por IA, direcionamento inteligente, automação com ag
  
  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+
+## 🎓 Equipe <a id="equipe"></a>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Membro</th>
+      <th>Função</th>
+      <th>Github</th>
+    </tr>
+    <tr>
+      <td>Julio Vasconcelos</td>
+      <td>Product Owner</td>
+      <td><a href="https://github.com/JulioPVasconcelos"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</a>
+    </td>
+    </tr>
+    <tr>
+      <td>Thales Pugliesi</td>
+      <td>Scrum Master</td>
+      <td><a href="https://github.com/T4lesbyte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>Jaquline Barbosa</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/JaqueRBarbosa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+      </td>
+     </tr>
+    <tr>
+      <td>Kauã Mangini</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https:"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+     </tr>
+    <tr>
+      <td>Lucas Alves</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/lucasleandro08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Samuel Parra</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/samuel0021"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+     </tr>
+  </table>
+</div>
  
