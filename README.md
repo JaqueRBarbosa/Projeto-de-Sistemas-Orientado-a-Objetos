@@ -38,16 +38,16 @@ O sistema realiza triagem por IA, direcionamento inteligente, automação com ag
 
 ## 📋 Product Backlog <a id="backlog"></a>
 
-| Rank | Prioridade | User Story                                                                                                 | Story Points | Sprint | Requisito do Cliente | Status |
-| :--: | :--------: | ---------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
-|  1   |    Alta    | Como usuário, quero abrir um chamado com priorização automática                                            |      13      |   1    |        RF-01         |   ✅   |
-|  2   |    Alta    | Como analista, quero visualizar fila de chamados por prioridade                                            |      8       |   1    |        RF-02         |   ✅   |
-|  3   |    Alta    | Como IA, quero classificar o tipo de chamado para direcionamento automático                               |      20      |   1    |        RF-03         |   ✅   |
-|  4   |    Alta    | Como gerente, quero dashboards com SLAs, tempos médios e gargalos                                         |      13      |   2    |        RF-04         |   ✅   |
-|  5   |    Alta    | Como admin, quero gerenciar usuários e níveis de acesso                                                   |      8       |   1    |        RF-05         |   ✅   |
-|  6   |   Média    | Como usuário, quero recuperar a senha com segurança                                                        |      5       |   2    |        RF-06         |   ✅   |
-|  7   |   Média    | Como analista, quero registrar ações no histórico do chamado                                               |      8       |   2    |        RF-07         |   ✅   |
-|  8   |   Baixa    | Como gerente, quero exportar relatórios mensais                                                            |      5       |   3    |        RF-08         |   ✅   |
+| Rank | Prioridade | User Story                                                                                                 | Story Points | Sprint | Status |
+| :--: | :--------: | ---------------------------------------------------------------------------------------------------------- | :----------: | :----: | :----: |
+|  1   |    Alta    | Como usuário, quero abrir um chamado com priorização automática                                            |      13      |   1    |   ✅   |
+|  2   |    Alta    | Como analista, quero visualizar fila de chamados por prioridade                                            |      8       |   1    |   ✅   |
+|  3   |    Alta    | Como IA, quero classificar o tipo de chamado para direcionamento automático                               |      20      |   1    |   ✅   |
+|  4   |    Alta    | Como gerente, quero dashboards com SLAs, tempos médios e gargalos                                         |      13      |   2    |   ✅   |
+|  5   |    Alta    | Como admin, quero gerenciar usuários e níveis de acesso                                                   |      8       |   1    |   ✅   |
+|  6   |   Média    | Como usuário, quero recuperar a senha com segurança                                                        |      5       |   2    |   ✅   |
+|  7   |   Média    | Como analista, quero registrar ações no histórico do chamado                                               |      8       |   2    |   ✅   |
+|  8   |   Baixa    | Como gerente, quero exportar relatórios mensais                                                            |      5       |   3    |   ✅   
 
 ---
 
