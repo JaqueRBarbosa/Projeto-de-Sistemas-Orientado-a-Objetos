@@ -11,7 +11,7 @@
 ---
 
 > **Status do Projeto:** Em andamento 🛠️  
-> **Product Backlog:** [Link](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4) 📄  
+> **Product Backlog:** [Notion](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4) 📄  
 > **Sprint Backlog:** [Link](https://github.com/T4lesbyte/Sistec/blob/main/Sprint-Backlog.md) 📄  
 > **Documentação Essencial:** [Notion](https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=) 📚
 
@@ -77,9 +77,9 @@ O sistema realiza triagem por IA, direcionamento inteligente, automação com ag
 
 | Sprint      | Período       | Documentação                                               |
 | ----------- | :-----------: | ---------------------------------------------------------- |
-| 🔖 SPRINT 1 | 03/04 - 30/05 | [Sprint 1 Docs](./docs/processo/sprints/sprint-1/README.md) |
-| 🔖 SPRINT 2 | 07/06 - 27/06 | [Sprint 2 Docs](./docs/processo/sprints/sprint-2/README.md) |
-| 🔖 SPRINT 3 | 05/07 - 25/07 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
+| 🔖 SPRINT 1 | 03/04 - 30/05 | [Sprint 1](https://github.com/T4lesbyte/Sistec/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22Sprint%201%22) |
+| 🔖 SPRINT 2 | 07/06 - 27/06 | [Sprint 2](https://github.com/T4lesbyte/Sistec/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22Sprint%202%22) |
+| 🔖 SPRINT 3 | 05/07 - 25/07 | [Sprint 3](https://github.com/T4lesbyte/Sistec/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22Sprint%203%22) |
 
 ---
 
