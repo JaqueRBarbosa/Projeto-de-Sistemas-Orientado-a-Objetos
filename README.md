@@ -6,7 +6,7 @@
 
 ---
 
-| [Desafio](#desafio) | [Solução](#solucao) | [Backlog do Produto](#backlog) | [DoR](#dor) | [DoD](#dod) | [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Equipe](#equipe) |
+| [Desafio](#desafio) | [Solução](#solucao) | [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Equipe](#equipe) |
 
 ---
 
@@ -36,50 +36,15 @@ O sistema realiza triagem por IA, direcionamento inteligente, automação com ag
 
 ---
 
-## 📋 Product Backlog <a id="backlog"></a>
-
-| Rank | Prioridade | User Story                                                                                                 | Story Points | Sprint | Status |
-| :--: | :--------: | ---------------------------------------------------------------------------------------------------------- | :----------: | :----: | :----: |
-|  1   |    Alta    | Como usuário, quero abrir um chamado com priorização automática                                            |      13      |   1    |   ✅   |
-|  2   |    Alta    | Como analista, quero visualizar fila de chamados por prioridade                                            |      8       |   1    |   ✅   |
-|  3   |    Alta    | Como IA, quero classificar o tipo de chamado para direcionamento automático                               |      20      |   1    |   ✅   |
-|  4   |    Alta    | Como gerente, quero dashboards com SLAs, tempos médios e gargalos                                         |      13      |   2    |   ✅   |
-|  5   |    Alta    | Como admin, quero gerenciar usuários e níveis de acesso                                                   |      8       |   1    |   ✅   |
-|  6   |   Média    | Como usuário, quero recuperar a senha com segurança                                                        |      5       |   2    |   ✅   |
-|  7   |   Média    | Como analista, quero registrar ações no histórico do chamado                                               |      8       |   2    |   ✅   |
-|  8   |   Baixa    | Como gerente, quero exportar relatórios mensais                                                            |      5       |   3    |   ✅   
-
----
-
-## 🏃 DoR - Definition of Ready <a id="dor"></a>
-
-- User Stories com critérios de aceitação definidos  
-- Escopo fatiado e estimado (story points)  
-- Protótipos/wireframes disponíveis (quando aplicável)  
-- Modelagem de dados e regras de negócio mapeadas  
-- Dependências identificadas e viáveis para a sprint  
-- Cenários de teste esboçados
-
----
-
-## 🏆 DoD - Definition of Done <a id="dod"></a>
-
-- Código implementado e integrado ao branch principal  
-- Testes automatizados passando e sem bugs bloqueadores  
-- Critérios de aceitação atendidos  
-- Documentação atualizada (técnica e de usuário)  
-- Observabilidade mínima (logs/monitoramento)  
-- Deploy realizável e potencialmente liberável
-
----
-
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint      | Período       | Documentação                                               |
 | ----------- | :-----------: | ---------------------------------------------------------- |
-| 🔖 SPRINT 1 | 03/04 - 30/05 | [Sprint 1](https://github.com/T4lesbyte/Sistec/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22Sprint%201%22) |
-| 🔖 SPRINT 2 | 07/06 - 27/06 | [Sprint 2](https://github.com/T4lesbyte/Sistec/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22Sprint%202%22) |
-| 🔖 SPRINT 3 | 05/07 - 25/07 | [Sprint 3](https://github.com/T4lesbyte/Sistec/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%22Sprint%203%22) |
+| 🔖 SPRINT 1 | 19/08 - 26/08 | [Sprint 1](diagrama de caso de uso) |
+| 🔖 SPRINT 2 | 27/08 - 02/09 | [Sprint 2](diagrama de classe) |
+| 🔖 SPRINT 3 | 03/09 - 09/09 | [Sprint 3](diagrama de sequencia) |
+| 🔖 SPRINT 4 | 10/09 - 16/09 | [Sprint 4](diagrama de implatação) |
+| 🔖 SPRINT 5 | 17/09 - 23/09 | [Sprint 5](review) |
 
 ---
 
