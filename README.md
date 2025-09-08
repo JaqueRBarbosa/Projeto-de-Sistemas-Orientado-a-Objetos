@@ -50,7 +50,7 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 
 | Sprint      | Período       | Documentação                                               |
 | ----------- | :-----------: | ---------------------------------------------------------- |
-| 🔖 SPRINT 1 | 19/08 - 26/08 | [Sprint 1](criação do repositorio e readme) |
+| 🔖 SPRINT 1 | 19/08 - 26/08 | [Sprint 1](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/1) |
 | 🔖 SPRINT 2 | 27/08 - 02/09 | [Sprint 2](diagrama de caso de uso) |
 | 🔖 SPRINT 3 | 03/09 - 09/09 | [Sprint 3](diagrama de clase ) |
 | 🔖 SPRINT 4 | 10/09 - 16/09 | [Sprint 4](diagrama de implatação) |
