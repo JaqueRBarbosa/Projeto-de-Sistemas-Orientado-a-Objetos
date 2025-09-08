@@ -1,12 +1,10 @@
-# Projeto-de-Sistemas-Orientado-a-Objetos
-
 # Sistema Inteligente de Gestão de Chamados de Suporte
 
 ## Sistec
 
 ---
 
-| [Desafio](#desafio) | [Solução](#solucao) | [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Equipe](#equipe) |
+| [O Projeto](#projeto) | [Visão Geral](#visao) | [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Equipe](#equipe) |
 
 ---
 
@@ -17,22 +15,34 @@
 
 ---
 
-## 🏅 Desafio <a id="desafio"></a>
+## 📁 O Projeto <a id="projeto"></a>
 
-Desenvolver uma plataforma integrada e automatizada para gerenciamento de chamados de suporte técnico, combinando controle de acesso, automação de fluxos e inteligência artificial para acelerar a resolução, reduzir custos e melhorar a experiência do usuário.
+Este projeto tem como objetivo desenvolver uma **plataforma integrada e automatizada** para gerenciamento de chamados de suporte técnico, combinando **controle de acesso, automação de fluxos de trabalho e inteligência artificial** para:
+
+- Agilizar a resolução de problemas
+- Reduzir custos operacionais
+- Melhorar a experiência do usuário
 
 ---
 
-## 🏅 Solução <a id="solucao"></a>
+## 🧭 Visão Geral <a id="visao"></a>
 
-O sistema realiza triagem por IA, direcionamento inteligente, automação com agentes especializados e fluxo adaptativo (automático ou humano), além de gestão de acesso por níveis e monitoramento em dashboards. Com base nessa arquitetura, oferece:
+A solução proposta é voltada para empresas que necessitam de um sistema **confiável, escalável e eficiente** para lidar com demandas de suporte interno ou externo. Com uma arquitetura modular, o sistema oferece:
 
-- Controle de usuários com 4 níveis de acesso (Admin, Gerente, Analista, Usuário)
-- Autenticação segura com recuperação de senha
-- Formulário inteligente de abertura de chamados com priorização automática
-- Triagem por IA e agentes especializados para respostas automáticas
-- Fluxos híbridos (automação + atendimento humano)
-- Dashboards em tempo real, relatórios de SLA e filtros avançados
+#### Gestão de Acessos e Processos
+- **Controle de usuários** com 4 níveis de acesso (Admin, Gerente, Analista e Usuário)
+- **Autenticação segura** com recuperação de senha
+- **Formulário inteligente** de chamados com priorização automática
+
+#### Automação e Inteligência
+- **Triagem por IA** para direcionamento inteligente
+- **Agentes especializados** para respostas automáticas
+- **Fluxo adaptativo** (automatizado ou humano)
+
+#### Monitoramento e Análise
+- **Dashboards interativos** em tempo real
+- **Relatórios estratégicos** de desempenho e SLA
+- **Filtros avançados** para gestão eficiente
 
 ---
 
