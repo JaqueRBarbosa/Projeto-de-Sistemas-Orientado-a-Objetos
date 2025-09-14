@@ -46,6 +46,29 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 
 ---
 
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
+ 
+- User Story descrita com clareza e objetivo definido
+- Critérios de aceitação disponíveis
+- Subtarefas devidamente mapeadas
+- Design disponível no Figma
+- Modelagem de dados realizada
+- Rotas atualizado
+- Referências e documentação no Notion
+
+---
+
+## 🏆 DoD - Definition of Done <a id="dod"></a>
+ 
+- Código implementado conforme critérios de aceitação
+- Testes unitários realizados com sucesso
+- Pull Request revisado e aprovado por outro membro
+- Documentação atualizada (README e Notion)
+- Funcionalidade integrada e testada na interface
+- Validação com o Product Owner durante a Review
+
+---
+
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint      | Período       | Documentação                                               |
