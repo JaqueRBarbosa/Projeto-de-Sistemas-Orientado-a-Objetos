@@ -4,7 +4,7 @@
 
 ---
 
-| [O Projeto](#projeto) | [Visão Geral](#visao) | [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Equipe](#equipe) |
+| [O Projeto](#projeto) | [Visão Geral](#visao)  | [Definition of Ready](#dor)  | [Definition of Done](#dod) || [Documentação](#documentacaor)   [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Equipe](#equipe) |
 
 ---
 
@@ -90,8 +90,6 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
  ## 📚 Documentação <a id="documentacao"></a>
 
 ### Pasta de Documentação
-
-Toda a documentação do projeto está organizada na pasta **`docs/`**:
 
 | Documento | Descrição | Link |
 |-----------|-----------|------|
