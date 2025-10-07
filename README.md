@@ -77,8 +77,8 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 | 🔖 SPRINT 2 | 01/09 - 13/09 | [Sprint 2](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/2) |
 | 🔖 SPRINT 3 | 14/09 - 26/09 | [Sprint 3](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/3) |
 | 🔖 SPRINT 4 | 27/09 - 09/10 | [Sprint 4](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/4) |
-| 🔖 SPRINT 5 | 10/10 - 22/10 | [Sprint 4](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/4) |
-| 🔖 SPRINT 6 | 23/10 - 02/11 | [Sprint 4](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/4) |
+| 🔖 SPRINT 5 | 10/10 - 22/10 | [Sprint 5](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/4) |
+| 🔖 SPRINT 6 | 23/10 - 02/11 | [Sprint 6](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/4) |
 
 ---
 
@@ -94,7 +94,7 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 | Documento | Descrição | Link |
 |-----------|-----------|------|
 | 📖 Manual do Usuário | Guia de uso do sistema | [Ver Manual](https://www.canva.com/design/DAGpV_CfDQ0/T2lIvDW_lV__wz6qthQFPA/view?utm_content=DAGpV_CfDQ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hab6829a78a) |
-| 🎨 Protótipos | Design no Figma | [Ver Figma](https://www.figma.com/design/FxSEOjV8WJS9jdf4EU5M33/Sistec-Admin?node-id=0-1&t=AQHPzJlVllva52uO-1)) |
+| 🎨 Protótipos | Design no Figma | [Ver Figma](https://www.figma.com/design/FxSEOjV8WJS9jdf4EU5M33/Sistec-Admin?node-id=0-1&t=AQHPzJlVllva52uO-1) |
 
 ## 🎓 Equipe <a id="equipe"></a>
 
