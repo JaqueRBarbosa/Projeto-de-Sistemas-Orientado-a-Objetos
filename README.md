@@ -77,8 +77,8 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 | 🔖 SPRINT 2 | 01/09 - 13/09 | [Sprint 2](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/2) |
 | 🔖 SPRINT 3 | 14/09 - 26/09 | [Sprint 3](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/3) |
 | 🔖 SPRINT 4 | 27/09 - 09/10 | [Sprint 4](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/4) |
-| 🔖 SPRINT 5 | 10/10 - 22/10 | [Sprint 5](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/4) |
-| 🔖 SPRINT 6 | 23/10 - 02/11 | [Sprint 6](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/4) |
+| 🔖 SPRINT 5 | 10/10 - 22/10 | [Sprint 5](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/5) |
+| 🔖 SPRINT 6 | 23/10 - 02/11 | [Sprint 6](https://github.com/JaqueRBarbosa/Projeto-de-Sistemas-Orientado-a-Objetos/issues/6) |
 
 ---
 
