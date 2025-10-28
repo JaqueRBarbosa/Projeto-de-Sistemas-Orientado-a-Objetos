@@ -4,7 +4,7 @@
 
 ---
 
-| [O Projeto](#projeto) | [Visão Geral](#visao)  | [Definition of Ready](#dor)  | [Definition of Done](#dod) | [Documentação](#documentacaor) | [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Equipe](#equipe) |
+| [O Projeto](#projeto) | [Visão Geral](#visao)  | [Definition of Ready](#dor)  | [Definition of Done](#dod) | [Documentação](#documentacao) | [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Equipe](#equipe) |
 
 ---
 
